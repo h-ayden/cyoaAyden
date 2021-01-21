@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\cyoaAyden\cyoaAyden\bin\Debug\cyoaAyden.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\cyoaAyden\cyoaAyden\bin\Debug\cyoaAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\cyoaAyden\cyoaAyden\bin\Debug\cyoaAyden.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\cyoaAyden\cyoaAyden\bin\Debug\cyoaAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\cyoaAyden\cyoaAyden\obj\Debug\cyoaAyden.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\cyoaAyden\cyoaAyden\obj\Debug\cyoaAyden.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\cyoaAyden\cyoaAyden\obj\Debug\cyoaAyden.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\cyoaAyden\cyoaAyden\obj\Debug\cyoaAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\cyoaAyden\cyoaAyden\obj\Debug\cyoaAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\projectsAyden\cyoaAyden\cyoaAyden\obj\Debug\cyoaAyden.pdb
